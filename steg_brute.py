@@ -24,7 +24,7 @@ def check_file(file):
         return False
 
     
-VERSION = "1.0"
+VERSION = "1.1"
 
 SAMPLES = """
 Type ./steg_brute.py -h to show help
